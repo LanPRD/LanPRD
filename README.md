@@ -1,9 +1,10 @@
-# Allan Prado
+<h1 align="center">Hi there 👋, Allan Prado</h1>
 
-## Hi there 👋
-
-
-[![Portfolio Badge](https://img.shields.io/badge/Website-portfolio.prdev.com.br-black)](https://portfolio.prdev.com.br) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lanprd/)](https://www.linkedin.com/in/lanprd/) [![GitHub Badge](https://img.shields.io/badge/-GitHub-171515?style=flat-square&logo=github&logoColor=white&link=https://github.com/LanPRD)](https://github.com/LanPRD)
+<p align="center">
+  <a href="https://portfolio.prdev.com.br/"><img alt="Portfolio" src="https://img.shields.io/badge/Website-portfolio.prdev.com.br-black"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/lanprd/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/LanPRD"><img src="https://img.shields.io/badge/-GitHub-171515?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 
 ## Sobre Mim
 
@@ -36,6 +37,6 @@ Desenvolvedor Full-stack com foco em criar soluções robustas e eficientes. Atu
 
 ## Contato
 
-- 🌐 [Portfólio](https://portfolio.prdev.com.br/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/lanprd/)
-- 💻 [GitHub](https://github.com/LanPRD)
+<p align="center">
+  <a href="https://portfolio.prdev.com.br/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lanprd/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
