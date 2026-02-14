@@ -75,14 +75,6 @@ That experience led me to dive into **JavaScript, React and Node.js**, which ult
 * 💼 Background in financial consulting
 * 📺 Watched One Piece up to episode 1000… more than once 😅
 
----
-
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanprd&layout=compact&theme=dracula&locale=pt-br">
-</p>
-
----
-
 ## 📫 Contact
 
 <p align="center">
