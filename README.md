@@ -8,55 +8,44 @@
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm a **Full-stack Software Engineer** who enjoys building robust, scalable and well-structured applications from end to end.
+Full-Stack Software Engineer focused on Node.js, TypeScript and React.
 
-My work spans across both **backend architecture and modern frontend development**, with a strong focus on creating reliable systems, clean user experiences and maintainable codebases.
+I build backend services and APIs using AWS Serverless and NestJS, building maintainable services with clear domain separation and reliable data handling.
 
-I have solid experience designing APIs and microservices using **Node.js, NestJS and .NET**, applying concepts such as **DDD, Clean Architecture, idempotency and event-driven design**.
+Experience with PostgreSQL, messaging systems and event-driven workflows in production environments.
 
-On the frontend side, I work extensively with **React and Next.js**, building high-quality interfaces with attention to performance, accessibility and user experience.
-
-In recent years, I've also been deeply involved with **Web3 development**, creating applications and integrations for **EVM and Solana ecosystems**, including wallets, blockchain interactions and automation tools.
+Experience with .NET, Flutter and Web3 integrations when required by the project context.
 
 ---
 
-## 🧩 Core Strengths
+## Core Areas
 
-* Full-stack application architecture
-* API & Microservices design
-* Domain-Driven Design (DDD)
-* Clean Architecture principles
-* Event-Driven systems & messaging
-* Idempotency & concurrency handling
-* Modern frontend engineering
-* Web3 integrations (EVM & Solana)
+- Backend services & API design
+- Serverless architectures (AWS)
+- Event-driven systems
+- Relational & NoSQL data modeling
+- Modern frontend with React
+- Web3 integrations
 
 ---
 
-## 🛠 Main Tech Stack
+## Tech Stack
 
-### Backend
+**Backend**
+Node.js • NestJS • .NET • TypeScript  
+PostgreSQL • Prisma • EF Core  
 
-* Node.js • NestJS • .NET • TypeScript
-* PostgreSQL • Prisma • EF Core
-* REST APIs • Messaging • Queues
+**Cloud & Infra**
+AWS Lambda • API Gateway • DynamoDB • S3  
+RabbitMQ • Redis • Docker  
 
-### Frontend
+**Frontend**
+React • Next.js • Tailwind  
 
-* React • Next.js • Tailwind CSS
-* Responsive UI & Performance Optimization
-* Component-driven architecture
-
-### Infrastructure & Tools
-
-* AWS Serverless (Lambda, API Gateway)
-* RabbitMQ • Redis • Docker
-
-### Blockchain
-
-* wagmi • viem • web3.js • Solana SDK
+**Blockchain**
+EVM • Solana • wagmi • viem
 
 ---
 
@@ -64,16 +53,9 @@ In recent years, I've also been deeply involved with **Web3 development**, creat
 
 I started my development journey in 2020 creating **VBA automation tools** for an accounting company, building systems to audit financial documentation and generate export reports.
 
-That experience led me to dive into **JavaScript, React and Node.js**, which ultimately defined my transition into the software engineering field.
+This experience led me into **JavaScript, React and Node.js**, defining my transition into software engineering.
 
 ---
-
-## 🎯 Interests & Fun Facts
-
-* 🔧 I've worked assembling and maintaining 3D printers
-* ⚡ Former electrical equipment estimator (low, medium & high voltage panels)
-* 💼 Background in financial consulting
-* 📺 Watched One Piece up to episode 1000… more than once 😅
 
 ## 📫 Contact
 
